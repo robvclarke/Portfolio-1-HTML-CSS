@@ -6,7 +6,7 @@ My idea for the Portfolio 1 project was to code a website providing information 
 
 I began by created a pintrest page so I had a moodboard for the design where I gathered Spanish branding, design, and web patters I thought could be interesting to experiment with.
 
-![Moodboard](/assets/images/Pintrest Board Screenshot.png)
+![Moodboard](/assets/images/Pintrest_Board_Screenshot.png)
 
 The link to the Pintrest moodboard I created can be found here [Moodboard](https://pin.it/nPuxeAm)
 
