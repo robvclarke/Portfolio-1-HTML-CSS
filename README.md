@@ -24,3 +24,14 @@ In the interest of quickly getting ideas out I began sketching wireframes with p
 
 ![Wireframe Sketches](/assets/images/Wireframe_Sketches.jpg)
 ![Wireframe Sketches with Sitemap](/assets/images/Sitemap_With_Wireframes.jpg)
+
+The link to the Sketched Wirframes I photographed and then uploaded to Figma can be found here [Sketched_Wireframes](https://www.figma.com/file/reC3Fy6xJeDvUtkPXHmQZE/Main-File?node-id=1%3A207)
+
+## Color Pallete 
+
+For the Color Pallete I wanted to use the colors of the flag of Spain which the three caminos passed through but with a more pastel tone. 
+I went onto the online resource [Color_Hunt](https://colorhunt.co/paletteshttps://colorhunt.co/palettes/) 
+and selected colors from a couple of warm and dark palletes settling on my final pallete of:
+
+![Color Pallete](/assets/images/Color_Pallete.jpg)
+
