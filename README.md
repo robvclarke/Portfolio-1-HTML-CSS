@@ -35,3 +35,17 @@ and selected colors from a couple of warm and dark palletes settling on my final
 
 ![Color Pallete](/assets/images/Color_Pallete.jpg)
 
+## Typography
+
+For the choice of typography for the site I used [Google Fonts](https://fonts.google.com/) to base my selection.
+
+For the title and headings I wanted something rustic and Spanish.
+I chose [Dokdo](https://fonts.google.com/specimen/Dokdo?query=dokdo) 
+
+For the body copy I wanted something clear, legible and modern. I chose [Barlow](https://fonts.google.com/specimen/Barlow?query=barlow)
+
+![Typography](/assets/images/Typography.jpg)
+
+
+
+
