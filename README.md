@@ -17,3 +17,10 @@ I then went into Figma and created a sitemap and priority guide of features base
 ![Sitemap_Priority-Guide](/assets/images/Sitemap_Priority_Guide_Screenshot.png)
 
 The link to the Sitemap and Priorty guide I designed in Figma can be found here [Sitemap_Priority_Guide](https://www.figma.com/file/reC3Fy6xJeDvUtkPXHmQZE/Main-File?node-id=0%3A1)
+
+## Sketched Wireframes
+
+In the interest of quickly getting ideas out I began sketching wireframes with pencil and paper for each page of the website based off of the features I had decided on in the priority guide exercise. 
+
+![Wireframe Sketches](/assets/images/Wireframe_Sketches.jpg)
+![Wireframe Sketches with Sitemap](/assets/images/Sitemap_With_Wireframes.jpg)
