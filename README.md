@@ -46,6 +46,19 @@ For the body copy I wanted something clear, legible and modern. I chose [Barlow]
 
 ![Typography](/assets/images/Typography.jpg)
 
+## Photography
+
+All photos were taken my myself on a OnePlus mobile phone while on the caminos. I had to go back in Google Photos, download and organise hundreds of them
+to find the ones I wanted to use which I then edited in photoshop.
+
+![Editing Process](/assets/images/photo_editing.png)
+
+## Icons
+
+I designed the icons for the site with the caligraphy brush tool in Illustrator. I wanted a kind of Piscasso ink drawing vibe to them/kind of holiday notebook aesthetic.
+
+![Icon Creation](/assets/images/Illustrator_Icons.png)
+
 
 
 
