@@ -63,7 +63,7 @@ I designed the icons for the site with the caligraphy brush tool in Illustrator.
 
 I then put together the designs for the landing page, the three camino pages and the contact page in Figma. 
 
-![Icon Creation](/assets/images/all_designs.png)
+Link to the Figma Designs [Designs](https://www.figma.com/file/reC3Fy6xJeDvUtkPXHmQZE/Main-File?node-id=10%3A2)
 
 ## Clickable Prototype
 
