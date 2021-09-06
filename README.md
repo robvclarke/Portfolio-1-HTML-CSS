@@ -65,6 +65,8 @@ I then put together the designs for the landing page, the three camino pages and
 
 Link to the Figma Designs [Designs](https://www.figma.com/file/reC3Fy6xJeDvUtkPXHmQZE/Main-File?node-id=10%3A2)
 
+![Designs](/assets/images/all_designs.png)
+
 ## Clickable Prototype
 
 Once I had the designs I made a clickable prototype in Figma to figure out some of the hoover states of buttons and see how the pages flow together.
