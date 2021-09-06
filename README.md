@@ -59,6 +59,16 @@ I designed the icons for the site with the caligraphy brush tool in Illustrator.
 
 ![Icon Creation](/assets/images/Illustrator_Icons.png)
 
+## Designs
+
+I then put together the designs for the landing page, the three camino pages and the contact page in Figma. 
+
+![Icon Creation](/assets/images/all_designs.png)
+
+
+
+
+
 
 
 
