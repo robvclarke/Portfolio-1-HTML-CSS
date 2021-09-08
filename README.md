@@ -87,6 +87,15 @@ Link for the designs in Figma [Figma Responsive Landing Page](https://www.figma.
 
 ![Responsive Landing Page](/assets/images/responsive_landing_page.png)
 
+Following this I designed the camino pages in a similar responsive way. The three camino pages 
+will have the same layout just different content.
+
+
+Link for the designs in Figma [Figma Responsive Landing Page](https://www.figma.com/file/reC3Fy6xJeDvUtkPXHmQZE/Main-File?node-id=100%3A1723) 
+
+
+![Responsive Camino Pages](/assets/images/camino_page_responsive.png)
+
 
 
 
