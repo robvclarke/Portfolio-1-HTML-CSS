@@ -77,6 +77,16 @@ Link for the clickable prototype can be accessed here [Figma Prototype](https://
 
 ![Prototype](/assets/images/clickable_prototype.png)
 
+## Responsive Designs
+
+I then designed the landing screen across variety of breakpoints to ensure I'd be happy with the responsive layout I would be trying to code
+
+
+Link for the designs in Figma [Figma Responsive Landing Page](https://www.figma.com/file/reC3Fy6xJeDvUtkPXHmQZE/Main-File?node-id=96%3A2619) 
+
+
+![Responsive Landing Page](/assets/images/responsive_landing_page.png)
+
 
 
 
