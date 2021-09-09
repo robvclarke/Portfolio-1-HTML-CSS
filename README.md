@@ -91,10 +91,14 @@ Following this I designed the camino pages in a similar responsive way. The thre
 will have the same layout just different content.
 
 
-Link for the designs in Figma [Figma Responsive Landing Page](https://www.figma.com/file/reC3Fy6xJeDvUtkPXHmQZE/Main-File?node-id=100%3A1723) 
+Link for the designs in Figma [Figma Responsive Camino Page](https://www.figma.com/file/reC3Fy6xJeDvUtkPXHmQZE/Main-File?node-id=100%3A1723) 
 
 
-![Responsive Camino Pages](/assets/images/camino_page_responsive.png)
+![Responsive Camino Pages](/assets/images/responsive_contact_page.png)
+
+The final thing to design then was the contact page across the breakpoints. This hopefully will be the easiest page to have behave repsonsively in the way I want it to. 
+
+Link for the designs in Figma [Figma Responsive Contact Page](https://www.figma.com/file/reC3Fy6xJeDvUtkPXHmQZE/Main-File?node-id=101%3A81)
 
 
 
