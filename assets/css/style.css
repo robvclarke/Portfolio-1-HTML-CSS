@@ -51,19 +51,32 @@
     color: #FFB830;
 }
 
+/* Display text */
+
 .display-6 {
     font-family: barlow !important;
     text-align: center;
+    padding-bottom: 40px;
 }
 
-.french-button{
-    font-family: Barlow !important;
-    color: #171717 !important;
-    border: white !important;
-    border-width: 1px !important;
-    border-radius: 10px !important;
+/* French Camino Card and image */
+
+.french-camino-card{
+    font-family: Barlow, sans-serif;
+    color: #171717;
+    background-color: #FFB830 ;
+    height: 20em;
+    padding-left: 2em;
+    padding-top: 5em;
+    border-radius: 3px;
 }
 
-.french-camino{
-    width: 90%;
+#french-image {
+    background-image: url(../images/French_Camino.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    height: 20em;
+    border-radius: 3px;
 }
