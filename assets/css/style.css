@@ -89,3 +89,37 @@
     height: 20em;
     margin-left: 0;
 }
+
+/* Portugese Camino Card and image */
+
+.portugese-camino-card{
+    font-family: Barlow, sans-serif;
+    font-weight: 500;
+    color: #FFB830;
+    background-color: #171717 ;
+    height: 20em;
+    padding-right: 2em;
+    padding-top: 5em;
+    margin-right: 0;
+    text-align: right;
+}
+.portugese-camino-card h2{
+    padding-bottom: 1em;
+    text-align: right;
+}
+
+.portugese-camino-card p{
+    padding-bottom: 1em;
+    padding-left: 4em;
+    text-align: right;
+}
+
+#portugese-image {
+    background-image: url(../images/Camino_Portugese.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    height: 20em;
+    margin-left: 0;
+}
