@@ -69,7 +69,6 @@
     height: 20em;
     padding-left: 2em;
     padding-top: 5em;
-    border-radius: 3px;
     margin-right: 0;
 }
 .french-camino-card h2{
@@ -88,6 +87,5 @@
     background-size: cover;
     overflow: hidden;
     height: 20em;
-    border-radius: 3px;
     margin-left: 0;
 }
