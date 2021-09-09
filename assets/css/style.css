@@ -63,12 +63,22 @@
 
 .french-camino-card{
     font-family: Barlow, sans-serif;
+    font-weight: 500;
     color: #171717;
     background-color: #FFB830 ;
     height: 20em;
     padding-left: 2em;
     padding-top: 5em;
     border-radius: 3px;
+    margin-right: 0;
+}
+.french-camino-card h2{
+    padding-bottom: 1em;
+}
+
+.french-camino-card p {
+    padding-bottom: 1em;
+    padding-right: 2em;
 }
 
 #french-image {
@@ -79,4 +89,5 @@
     overflow: hidden;
     height: 20em;
     border-radius: 3px;
+    margin-left: 0;
 }
