@@ -14,16 +14,24 @@
 }
 
 .container{
-    /*
-    border-width: 48px;
-    border-color: white;
-    */
     background-image: url(../images/hero_image_landing.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    overflow:hidden;
-    height: 472px;
+    overflow: hidden;
+    height: 472px;  
+}
 
-    
+h1{
+    font-family: Dokdo, sans-serif;
+    color: white;
+    font-size: 6.75em;
+    padding-left: .25em;
+}
+
+#intro-text{
+    background-color: rgba(23, 23, 23, .6);
+}
+#intro-text p{
+    color: white;
 }
