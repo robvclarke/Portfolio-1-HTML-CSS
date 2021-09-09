@@ -12,3 +12,18 @@
 .nav-item{
     padding-left: 32px !important ;
 }
+
+.container{
+    /*
+    border-width: 48px;
+    border-color: white;
+    */
+    background-image: url(../images/hero_image_landing.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow:hidden;
+    height: 472px;
+
+    
+}
