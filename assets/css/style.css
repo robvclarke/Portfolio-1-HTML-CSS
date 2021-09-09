@@ -10,6 +10,7 @@ body{
 
 .navbar{
     margin-bottom: 2em !important;
+    color: #171717
 }
 
 .navbar a{
@@ -21,6 +22,10 @@ body{
 
 .nav-item{
     padding-left: 32px !important ;
+}
+
+navbar-brand{
+    padding-left: 24px !important;
 }
 
 /* Hero image and Intro Text */
@@ -173,4 +178,25 @@ body{
     margin-left: 0;
 }
 
+/* Footer */
+
+#footer{
+    background-color: #171717;
+    height: 3em;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    color: white;
+    font-family: Barlow, sans-serif;
+    font-size: xx-small;
+}
+
+#footer p{
+    padding-left: 14em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.container-fluid.footer{
+    padding: 0;
+}
 
