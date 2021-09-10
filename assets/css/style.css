@@ -368,6 +368,11 @@ body{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: auto;
+    gap: 1.5rem;
+    grid-template-areas: 
+        'img-1 img-2 img-3 img-3'
+        'img-1 img-4 img-5 img-6'
+        'img-7 img-7 img-8 img-6';
 }
 
 .image-gallery a {
@@ -416,7 +421,44 @@ body{
 
 .img-1{
     grid-area: img-1;
+    min-height: 51.5rem;
     background-image: url("../images/frenchgallery/img1.jpg");
+}
+
+.img-2{
+    grid-area: img-2;
+    background-image: url("../images/frenchgallery/img2.jpg");
+}
+
+.img-3{
+    grid-area: img-3;
+    background-image: url("../images/frenchgallery/img3.jpg");
+}
+
+.img-4{
+    grid-area: img-4;
+    background-image: url("../images/frenchgallery/img4.jpg");
+}
+
+.img-5{
+    grid-area: img-5;
+    background-image: url("../images/frenchgallery/img5.jpg");
+}
+
+.img-6{
+    grid-area: img-6;
+    min-height: 51.5rem;
+    background-image: url("../images/frenchgallery/img6.jpg");
+}
+
+.img-7{
+    grid-area: img-7;
+    background-image: url("../images/frenchgallery/img7.jpg");
+}
+
+.img-8{
+    grid-area: img-8;
+    background-image: url("../images/frenchgallery/img8.jpg");
 }
 
 
@@ -533,6 +575,24 @@ color: white;
 
     #intro-text{
         width: 60%;
+    }
+
+    .image-gallery{
+        grid-template-areas: 
+        'img-1 img-1 img-2 img-2'
+        'img-1 img-1 img-3 img-3'
+        'img-4 img-4 img-5 img-5'
+        'img-6 img-7 img-7 img-7'
+        'img-8 img-8 img-8 img-8';
+    }
+    .image-gallery a{
+        height: 20rem;
+    }
+    .img-1{
+        min-height: 41.5rem;
+    }
+    .img-6{
+        min-height: 20rem;
     }
 }
 
