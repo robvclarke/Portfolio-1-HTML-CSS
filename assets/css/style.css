@@ -200,95 +200,55 @@ body{
 
 @media screen and (max-width: 1200px) {
     
-    .hero-logo{
-        font-family: Dokdo, sans-serif;
-        color: white;
-        font-size: 6.75em;
-        padding-left: .25em;
-        padding-top: 1em;
-    }
-    
     #intro-text{
-        background-color: rgba(23, 23, 23, .6);
         width: 50%;
-        font-family: Barlow, sans-serif;
-        font-weight: 400;
-        padding: 2em;
-        padding-bottom: 1.5em;
-        margin-left: 2em;
-        border-radius: 3px;
     }
 }
 
 /* For medium screen sizes from 992 px wide and down */
 
 @media screen and (max-width: 992px) {
-    
-    .hero-logo{
-        font-family: Dokdo, sans-serif;
-        color: white;
-        font-size: 6.75em;
-        padding-left: .25em;
-        padding-top: 1em;
-    }
-    
+
     #intro-text{
-        background-color: rgba(23, 23, 23, .6);
         width: 60%;
-        font-family: Barlow, sans-serif;
-        font-weight: 400;
-        padding: 2em;
-        padding-bottom: 1.5em;
-        margin-left: 2em;
-        border-radius: 3px;
     }
-}
+    .french-camino-card{
+        text-align: center;
+    }
+
+    .portugese-camino-card{
+        text-align: center;
+        padding-right: 1em;
+    }
+    .portugese-camino-card h2{
+        text-align: center;
+    }
+    
+    .portugese-camino-card p{
+        padding-left: 2em;
+        text-align: center;
+    }
+
+    .madrid-camino-card{
+       text-align: center;
+    }
+
 
 /* For smallish screen sizes from 992 px wide and down */
 
 @media screen and (max-width: 992px) {
-    
-    .hero-logo{
-        font-family: Dokdo, sans-serif;
-        color: white;
-        font-size: 6.75em;
-        padding-left: .25em;
-        padding-top: 1em;
-    }
-    
+
     #intro-text{
-        background-color: rgba(23, 23, 23, .6);
         width: 60%;
-        font-family: Barlow, sans-serif;
-        font-weight: 400;
-        padding: 2em;
-        padding-bottom: 1.5em;
-        margin-left: 2em;
-        border-radius: 3px;
     }
 }
 
 /* For small screen sizes from 768 px wide and down */
 
 @media screen and (max-width: 768px) {
-    
-    .hero-logo{
-        font-family: Dokdo, sans-serif;
-        color: white;
-        font-size: 6.75em;
-        padding-left: .25em;
-        padding-top: 1em;
-    }
-    
+
     #intro-text{
-        background-color: rgba(23, 23, 23, .6);
         width: 80%;
-        font-family: Barlow, sans-serif;
-        font-weight: 400;
-        padding: 2em;
-        padding-bottom: 1.5em;
-        margin-left: 2em;
-        border-radius: 3px;
     }
 }
 
@@ -297,21 +257,10 @@ body{
 @media screen and (max-width: 576px) {
     
     .hero-logo{
-        font-family: Dokdo, sans-serif;
-        color: white;
         font-size: 6em;
-        padding-left: .25em;
-        padding-top: 1em;
     }
     
     #intro-text{
-        background-color: rgba(23, 23, 23, .6);
         width: 80%;
-        font-family: Barlow, sans-serif;
-        font-weight: 400;
-        padding: 2em;
-        padding-bottom: 1.5em;
-        margin-left: 2em;
-        border-radius: 3px;
     }
 }
