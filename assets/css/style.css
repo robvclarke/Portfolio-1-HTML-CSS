@@ -327,6 +327,20 @@ body{
 
 }
 
+/* Map Section of French Camino Page */
+
+#france-iframe-map-section {
+        height: 542px;
+        background-color: #FFB830;
+}
+
+#our-route-logo{
+    padding-left: 40%;
+    padding-right: 40%;
+    width: 20%;
+    padding-top: 24px;
+}
+
 
 
 /* Footer */
