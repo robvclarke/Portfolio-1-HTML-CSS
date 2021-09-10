@@ -46,7 +46,7 @@ body{
 }
 
 #intro-text{
-    background-color: rgba(23, 23, 23, .6);
+    background-color: rgba(23, 23, 23, .7);
     width: 36%;
     font-family: Barlow, sans-serif;
     font-weight: 400;
@@ -206,6 +206,20 @@ body{
 
 .container-fluid.footer{
     padding: 0;
+}
+
+/* Button Stylings  */
+
+.button-french{
+text-decoration: none;
+font-family: Barlow;
+color: white;
+
+}
+.button-french:hover{
+    text-decoration: none;
+    font-family: Barlow;
+    color: white;
 }
 
 /* For large screen sizes from 1200 px wide and down */
