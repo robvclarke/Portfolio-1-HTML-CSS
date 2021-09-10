@@ -226,6 +226,15 @@ body{
     }
     .french-camino-card{
         text-align: center;
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px;
+        border-bottom-left-radius: 0px;
+    }
+
+    #french-image {
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 3px;
+        border-bottom-left-radius: 3px;
     }
 
     .portugese-camino-card{
