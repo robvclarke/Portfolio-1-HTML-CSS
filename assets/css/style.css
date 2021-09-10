@@ -199,6 +199,7 @@ body{
     border-radius: 3px;
     padding: 1.75em;
     padding-top: 1.75em;
+    padding-bottom: 1.5em;
 }
 
 #french-camino-page-title {
@@ -216,6 +217,34 @@ body{
     border-radius: 3px;
     margin-top: 2em !important;
     margin-bottom: 2em !important; 
+}
+
+#stats-logo{
+    padding-left: 40%;
+    padding-right: 40%;
+}
+
+#time-section{
+    text-align: center;
+}
+
+.time-logo {
+    padding-bottom: 2em;
+}
+
+.time-label{
+    background-color: #171717;
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+}
+.time-text display-6{
+    font-family: Barlow;
+    font-size: medium;
+    text-align: center;
+    margin-top: .25em !important;
+
 }
 
 
