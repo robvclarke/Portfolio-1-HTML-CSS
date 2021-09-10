@@ -272,6 +272,33 @@ body{
 
 }
 
+#Elevation-section{
+    text-align: center;
+}
+
+.elevation-logo {
+    padding-bottom: 2.5em;
+}
+
+
+.elevation-label{
+    background-color: #3DB2FF;
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    text-align: center;
+}
+
+.elevation-text {
+    font-family: Barlow;
+    font-size: 56px;
+    text-align: center;
+    font-weight: 200;
+    padding-top: 5px;
+
+}
+
+
 
 /* Footer */
 
