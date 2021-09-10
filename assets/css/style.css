@@ -628,7 +628,13 @@ color: white;
         'img-1 img-1 img-3 img-3'
         'img-4 img-4 img-5 img-5'
         'img-6 img-7 img-7 img-7'
-        'img-8 img-8 img-8 img-8';
+        'img-8 img-8 img-8 img-8'
+        
+        'img-9 img-9 img-10 img-10'
+        'img-9 img-9 img-11 img-11'
+        'img-12 img-12 img-13 img-13'
+        'img-14 img-15 img-15 img-15'
+        'img-16 img-16 img-16 img-16';
     }
     .image-gallery a{
         height: 20rem;
@@ -637,6 +643,12 @@ color: white;
         min-height: 41.5rem;
     }
     .img-6{
+        min-height: 20rem;
+    }
+    .img-9{
+        min-height: 41.5rem;
+    }
+    .img-14{
         min-height: 20rem;
     }
 }
@@ -671,7 +683,15 @@ color: white;
         'img-5 img-5 img-5 img-5'
         'img-6 img-6 img-6 img-6'
         'img-7 img-7 img-7 img-7'
-        'img-8 img-8 img-8 img-8';
+        'img-8 img-8 img-8 img-8'
+        'img-9 img-9 img-9 img-9'
+        'img-10 img-10 img-10 img-10'
+        'img-11 img-11 img-11 img-11'
+        'img-12 img-12 img-12 img-12'
+        'img-13 img-13 img-13 img-13'
+        'img-14 img-14 img-14 img-14'
+        'img-15 img-15 img-15 img-15'
+        'img-16 img-16 img-16 img-16';
     }
     .image-gallery a,
     .img-1,
