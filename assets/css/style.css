@@ -23,6 +23,9 @@ body{
 .nav-item{
     padding-left: 32px !important ;
 }
+.nav-link.active{
+    color: #FFB830 !important;
+}
 
 /* Hero image and Intro Text */
 
