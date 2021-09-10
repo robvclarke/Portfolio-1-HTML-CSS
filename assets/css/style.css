@@ -220,8 +220,8 @@ body{
 }
 
 #stats-logo{
-    padding-left: 40%;
-    padding-right: 40%;
+    padding-left: 45%;
+    padding-right: 45%;
 }
 
 #time-section{
@@ -283,13 +283,40 @@ body{
 
 .elevation-label{
     background-color: #3DB2FF;
-    width: 30%;
-    margin-left: 35%;
-    margin-right: 35%;
+    width: 33%;
+    margin-left: 33%;
+    margin-right: 33%;
     text-align: center;
 }
 
 .elevation-text {
+    font-family: Barlow;
+    font-size: 56px;
+    text-align: center;
+    font-weight: 200;
+    padding-top: 5px;
+
+}
+
+#distance-section{
+    text-align: center;
+}
+
+.distance-logo {
+    padding-top: 4.5em;
+    padding-bottom: 2.5em;
+}
+
+
+.distance-label{
+    background-color: #FFEDDA;
+    width: 33%;
+    margin-left: 33%;
+    margin-right: 33%;
+    text-align: center;
+}
+
+.distance-text {
     font-family: Barlow;
     font-size: 56px;
     text-align: center;
