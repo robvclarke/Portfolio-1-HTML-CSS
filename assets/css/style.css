@@ -226,20 +226,26 @@ body{
     }
     .french-camino-card{
         text-align: center;
-        border-top-left-radius: 3px;
-        border-top-right-radius: 3px;
-        border-bottom-left-radius: 0px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-left-radius: 3px;
+        border-bottom-right-radius: 3px;
     }
 
     #french-image {
-        border-top-right-radius: 0px;
-        border-bottom-right-radius: 3px;
-        border-bottom-left-radius: 3px;
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-right-radius: 3px;
+        border-top-left-radius: 3px;
     }
 
     .portugese-camino-card{
         text-align: center;
         padding-right: 1em;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-left-radius: 3px;
+        border-bottom-right-radius: 3px;
     }
     .portugese-camino-card h2{
         text-align: center;
@@ -250,8 +256,26 @@ body{
         text-align: center;
     }
 
+    #portugese-image {
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-right-radius: 3px;
+        border-top-left-radius: 3px;
+    }
+
     .madrid-camino-card{
        text-align: center;
+       border-top-left-radius: 0px;
+       border-top-right-radius: 0px;
+       border-bottom-left-radius: 3px;
+       border-bottom-right-radius: 3px;
+    }
+
+    #madrid-image {
+        border-bottom-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-right-radius: 3px;
+        border-top-left-radius: 3px;
     }
 
 
