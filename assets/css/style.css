@@ -84,6 +84,8 @@ body{
     padding-left: 2em;
     padding-top: 5em;
     margin-right: 0;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
 }
 .french-camino-card h2{
     padding-bottom: 1em;
@@ -102,6 +104,8 @@ body{
     overflow: hidden;
     height: 20em;
     margin-left: 0;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
 }
 
 /* Portugese Camino Card and image */
@@ -116,6 +120,8 @@ body{
     padding-top: 5em;
     margin-right: 0;
     text-align: right;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
 }
 .portugese-camino-card h2{
     padding-bottom: 1em;
@@ -136,6 +142,8 @@ body{
     overflow: hidden;
     height: 20em;
     margin-left: 0;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
 }
 
 /* Madrid Camino Card and image */
@@ -149,6 +157,8 @@ body{
     padding-left: 2em;
     padding-top: 5em;
     margin-right: 0;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
 }
 .madrid-camino-card h2{
     padding-bottom: 1em;
@@ -172,6 +182,8 @@ body{
     overflow: hidden;
     height: 20em;
     margin-left: 0;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
 }
 
 /* Footer */
