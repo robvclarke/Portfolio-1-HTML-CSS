@@ -941,6 +941,12 @@ color: white;
         padding-top: 1.5em;
         text-align: center;
     }
+
+    #madrid-camino-page-title {
+        padding-top: 1.5em;
+        color:#171717;
+        text-align: center;
+    }
     
 
     #intro-text{
@@ -1011,6 +1017,11 @@ color: white;
 
     #portugese-camino-page-title{
         padding-top: 1.5em;
+        text-align: center;
+    }
+
+    #madrid-camino-page-title {
+        padding-top: 5em;
         text-align: center;
     }
 
@@ -1123,6 +1134,15 @@ color: white;
 
     #portugese-camino-page-intro {
         margin-top: 20px;
+        text-align: center;
+    }
+    #madrid-camino-page-intro {
+        margin-top: 25px;
+        text-align: center;
+    }
+    #madrid-camino-page-title {
+        padding-top: 2em;
+        text-align: center;
     }
 }
 
