@@ -234,6 +234,18 @@ body{
     margin-bottom: 2em !important; 
 }
 
+#portugese-camino-page-banner {
+    background-image: url(../images/portugal-banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    height: 472px;
+    border-radius: 3px;
+    margin-top: 2em !important;
+    margin-bottom: 2em !important; 
+}
+
 /* Stats section of French Camino Page */
 
 #stats-logo{
@@ -265,6 +277,11 @@ body{
 }
 
 #weather-section{
+    text-align: center;
+}
+
+#portugese-weather-section{
+    margin-top: 1.2em;
     text-align: center;
 }
 
@@ -347,6 +364,11 @@ body{
 #france-iframe-map-section {
         height: 542px;
         background-color: #FFB830;
+}
+
+#portugese-iframe-map-section {
+    height: 542px;
+    background-color: #171717;
 }
 
 #our-route-logo{
