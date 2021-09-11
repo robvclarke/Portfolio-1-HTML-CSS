@@ -636,7 +636,7 @@ body{
 .img-1-madrid{
     grid-area: img-1-madrid;
     min-height: 51.5rem;
-    background-image: url("../images/portugesecamino/img1.jpg");
+    background-image: url("../images/madridgallery/img1.jpg");
 }
 
 .img-2{
@@ -651,7 +651,7 @@ body{
 
 .img-2-madrid{
     grid-area: img-2-madrid;
-    background-image: url("../images/portugesecamino/img2.jpg");
+    background-image: url("../images/madridgallery/img2.jpg");
 }
 
 .img-3{
@@ -666,7 +666,7 @@ body{
 
 .img-3-madrid{
     grid-area: img-3-madrid;
-    background-image: url("../images/portugesecamino/img3.jpg");
+    background-image: url("../images/madridgallery/img3.jpg");
 }
 
 .img-4{
@@ -681,7 +681,7 @@ body{
 
 .img-4-madrid{
     grid-area: img-4-madrid;
-    background-image: url("../images/portugesecamino/img4.jpg");
+    background-image: url("../images/madridgallery/img4.jpg");
 }
 
 .img-5{
@@ -697,7 +697,7 @@ body{
 
 .img-5-madrid{
     grid-area: img-5-madrid;
-    background-image: url("../images/portugesecamino/img5.jpg")
+    background-image: url("../images/madridgallery/img5.jpg")
 
 }
 
@@ -716,7 +716,7 @@ body{
 .img-6-madrid{
     grid-area: img-6-madrid;
     min-height: 51.5rem;
-    background-image: url("../images/portugesecamino/img6.jpg");
+    background-image: url("../images/madridgallery/img6.jpg");
 }
 
 .img-7{
@@ -731,7 +731,7 @@ body{
 
 .img-7-madrid{
     grid-area: img-7-madrid;
-    background-image: url("../images/portugesecamino/img7.jpg");
+    background-image: url("../images/madridgallery/img7.jpg");
 }
 
 .img-8{
@@ -746,7 +746,7 @@ body{
 
 .img-8-madrid{
     grid-area: img-8-madrid;
-    background-image: url("../images/portugesecamino/img8.jpg");
+    background-image: url("../images/madridgallery/img8.jpg");
 }
 
 .img-9{
@@ -764,7 +764,7 @@ body{
 .img-9-madrid{
     grid-area: img-9-madrid;
     min-height: 51.5rem;
-    background-image: url("../images/portugesecamino/img9.jpg");
+    background-image: url("../images/madridgallery/img9.jpg");
 }
 
 .img-10{
@@ -779,7 +779,7 @@ body{
 
 .img-10-madrid{
     grid-area: img-10-madrid;
-    background-image: url("../images/portugesecamino/img10.jpg");
+    background-image: url("../images/madridgallery/img10.jpg");
 }
 
 .img-11{
@@ -794,7 +794,7 @@ body{
 
 .img-11-madrid{
     grid-area: img-11-madrid;
-    background-image: url("../images/portugesecamino/img11.jpg");
+    background-image: url("../images/madridgallery/img12.jpg");
 }
 
 .img-12{
@@ -809,7 +809,7 @@ body{
 
 .img-12-madrid{
     grid-area: img-12-madrid;
-    background-image: url("../images/portugesecamino/img12.jpg");
+    background-image: url("../images/madridgallery/img12.jpg");
 }
 
 .img-13{
@@ -824,7 +824,7 @@ body{
 
 .img-13-madrid{
     grid-area: img-13-madrid;
-    background-image: url("../images/portugesecamino/img13.jpg");
+    background-image: url("../images/madridgallery/img13.jpg");
 }
 
 .img-14{
@@ -843,7 +843,7 @@ body{
 .img-14-madrid{
     grid-area: img-14-madrid;
     min-height: 51.5rem;
-    background-image: url("../images/portugesecamino/img14.jpg");
+    background-image: url("../images/madridgallery/img14.jpg");
 }
 
 .img-15{
@@ -858,7 +858,7 @@ body{
 
 .img-15-madrid{
     grid-area: img-15-madrid;
-    background-image: url("../images/portugesecamino/img15.jpg");
+    background-image: url("../images/madridgallery/img15.jpg");
 }
 
 .img-16{
@@ -873,7 +873,7 @@ body{
 
 .img-16-madrid{
     grid-area: img-16-madrid;
-    background-image: url("../images/portugesecamino/img16.jpg");
+    background-image: url("../images/madridgallery/img16.jpg");
 }
 
 
@@ -1044,10 +1044,29 @@ color: white;
         'img-16-portugese img-16-portugese img-16-portugese img-16-portugese';
     }
 
+    .image-gallery-madrid{
+        grid-template-areas: 
+        'img-1-madrid img-1-madrid img-2-madrid img-2-madrid'
+        'img-1-madrid img-1-madrid img-3-madrid img-3-madrid'
+        'img-4-madrid img-4-madrid img-5-madrid img-5-madrid'
+        'img-6-madrid img-7-madrid img-7-madrid img-7-madrid'
+        'img-8-madrid img-8-madrid img-8-madrid img-8-madrid'
+        
+        'img-9-madrid img-9-madrid img-10-madrid img-10-madrid'
+        'img-9-madrid img-9-madrid img-11-madrid img-11-madrid'
+        'img-12-madrid img-12-madrid img-13-madrid img-13-madrid'
+        'img-14-madrid img-15-madrid img-15-madrid img-15-madrid'
+        'img-16-madrid img-16-madrid img-16-madrid img-16-madrid';
+    }
+
     .image-gallery a{
         height: 20rem;
     }
     .image-gallery-portugese a{
+        height: 20rem;
+    }
+
+    .image-gallery-madrid a{
         height: 20rem;
     }
 
@@ -1057,10 +1076,16 @@ color: white;
     .img-1-portugese{
         min-height: 41.5rem;
     }
+    .img-1-madrid{
+        min-height: 41.5rem;
+    }
     .img-6{
         min-height: 20rem;
     }
     .img-6-portugese{
+        min-height: 20rem;
+    }
+    .img-6-madrid{
         min-height: 20rem;
     }
     .img-9{
@@ -1069,10 +1094,16 @@ color: white;
     .img-9-portugese{
         min-height: 41.5rem;
     }
+    .img-9-madrid{
+        min-height: 41.5rem;
+    }
     .img-14{
         min-height: 20rem;
     }
     .img-14-portugese{
+        min-height: 20rem;
+    }
+    .img-14-madrid{
         min-height: 20rem;
     }
 }
@@ -1146,6 +1177,26 @@ color: white;
         'img-16-portugese img-16-portugese img-16-portugese img-16-portugese';
     }
 
+    .image-gallery-madrid{
+        grid-template-areas: 
+        'img-1-madrid img-1-madrid img-1-madrid img-1-madrid'
+        'img-2-madrid img-2-madrid img-2-madrid img-2-madrid'
+        'img-3-madrid img-3-madrid img-3-madrid img-3-madrid'
+        'img-4-madrid img-4-madrid img-4-madrid img-4-madrid'
+        'img-5-madrid img-5-madrid img-5-madrid img-5-madrid'
+        'img-6-madrid img-6-madrid img-6-madrid img-6-madrid'
+        'img-7-madrid img-7-madrid img-7-madrid img-7-madrid'
+        'img-8-madrid img-8-madrid img-8-madrid img-8-madrid'
+        'img-9-madrid img-9-madrid img-9-madrid img-9-madrid'
+        'img-10-madrid img-10-madrid img-10-madrid img-10-madrid'
+        'img-11-madrid img-11-madrid img-11-madrid img-11-madrid'
+        'img-12-madrid img-12-madrid img-12-madrid img-12-madrid'
+        'img-13-madrid img-13-madrid img-13-madrid img-13-madrid'
+        'img-14-madrid img-14-madrid img-14-madrid img-14-madrid'
+        'img-15-madrid img-15-madrid img-15-madrid img-15-madrid'
+        'img-16-madrid img-16-madrid img-16-madrid img-16-madrid';
+    }
+
     .image-gallery a,
     .img-1,
     .img-6{
@@ -1155,6 +1206,12 @@ color: white;
     .image-gallery-portugese a,
     .img-1-portugese,
     .img-6-portugese{
+        height: 20rem;
+    }
+
+    .image-gallery-madrid a,
+    .img-1-madrid,
+    .img-6-madrid{
         height: 20rem;
     }
 
