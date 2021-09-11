@@ -1024,4 +1024,7 @@ color: white;
         margin-right: 37%;
         text-align: center;
     }
+    .madrid-camino-card h2 img{
+        padding-right: 1.5em;
+    }
 }
