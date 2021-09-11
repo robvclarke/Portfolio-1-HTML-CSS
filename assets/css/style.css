@@ -550,11 +550,23 @@ color: white;
     #intro-text{
         width: 50%;
     }
+    #french-camino-page-title {
+        padding-top: 2em;
+        color:#171717;
+        text-align: center;
+    }
 }
 
 /* For medium screen sizes from 992 px wide and down */
 
 @media screen and (max-width: 992px) {
+
+
+    #french-camino-page-title {
+        color:#171717;
+        text-align: center;
+    }
+    
 
     #intro-text{
         width: 60%;
@@ -660,6 +672,11 @@ color: white;
     #intro-text{
         width: 80%;
     }
+
+    #french-camino-page-intro {
+        text-align: center;
+        margin-top: 2em;
+        }
 }
 
 /* For smaller screen sizes from 576 px wide and down */

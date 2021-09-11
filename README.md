@@ -106,7 +106,6 @@ Link for the designs in Figma [Figma Responsive Contact Page](https://www.figma.
 
 I coded the photo gallery section of the camino pages with the help of this Youtube tutorial
 
-
 Link for the Youtube Tutorial for Photo Gallery [Photo Gallery Tutorial](https://www.youtube.com/watch?v=zgXHgKad7N0&ab_channel=JulioCodes) 
 
 The icon in the photo gallery when you hover on an image was made by Ionic Icons 
