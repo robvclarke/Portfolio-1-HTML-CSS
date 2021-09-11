@@ -415,8 +415,36 @@ body{
         'img-15 img-15 img-16 img-14';
     padding-bottom: 32px;
 }
+.image-gallery-portugese {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    gap: 1.5rem;
+    grid-template-areas: 
+        'img-1-portugese img-2-portugese img-3-portugese img-3-portugese'
+        'img-1-portugese img-4-portugese img-5-portugese img-6-portugese'
+        'img-7-portugese img-7-portugese img-8-portugese img-6-portugese'
+        'img-9-portugese img-10-portugese img-11-portugese img-11-portugese'
+        'img-9-portugese img-12-portugese img-13-portugese img-14-portugese'
+        'img-15-portugese img-15-portugese img-16-portugese img-14-portugese';
+    padding-bottom: 32px;
+}
+
 
 .image-gallery a {
+    width: 100%;
+    height: 25rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.image-gallery-portugese a {
     width: 100%;
     height: 25rem;
     background-position: center;
@@ -442,7 +470,32 @@ body{
 
 }
 
+.image-gallery-portugese a i{
+    color:rgba(255, 255, 255, .6);
+    font-size: 3rem;
+    position: relative;
+    z-index: 100;
+    padding: 1rem 3rem;
+    border: 2px solid rgba(255, 255, 255, .6);
+    border-radius: 4rem;
+    opacity: 0;
+    transition: opacity .5s;
+
+}
+
 .image-gallery a::before{
+    content: ;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, .8);
+    opacity: 0;
+    transition: opacity .5s;
+}
+
+.image-gallery-portugese a::before{
     content: ;
     position: absolute;
     width: 100%;
@@ -459,10 +512,20 @@ body{
     opacity: 1;
 }
 
+.image-gallery-portugese a:hover i,
+.image-gallery-portugese a:hover::before {
+    opacity: 1;
+}
+
 .img-1{
     grid-area: img-1;
     min-height: 51.5rem;
     background-image: url("../images/frenchgallery/img1.jpg");
+}
+.img-1-portugese{
+    grid-area: img-1-portugese;
+    min-height: 51.5rem;
+    background-image: url("../images/portugesecamino/img1.jpg");
 }
 
 .img-2{
@@ -470,9 +533,19 @@ body{
     background-image: url("../images/frenchgallery/img2.jpg");
 }
 
+.img-2-portugese{
+    grid-area: img-2-portugese;
+    background-image: url("../images/portugesecamino/img2.jpg");
+}
+
 .img-3{
     grid-area: img-3;
     background-image: url("../images/frenchgallery/img3.jpg");
+}
+
+.img-3-portugese{
+    grid-area: img-3-portugese;
+    background-image: url("../images/portugesecamino/img3.jpg");
 }
 
 .img-4{
@@ -480,9 +553,20 @@ body{
     background-image: url("../images/frenchgallery/img4.jpg");
 }
 
+.img-4-portugese{
+    grid-area: img-4-portugese;
+    background-image: url("../images/portugesecamino/img4.jpg");
+}
+
 .img-5{
     grid-area: img-5;
     background-image: url("../images/frenchgallery/img5.jpg");
+}
+
+.img-5-portugese{
+    grid-area: img-5-portugese;
+    background-image: url("../images/portugesecamino/img5.jpg")
+
 }
 
 .img-6{
@@ -491,14 +575,30 @@ body{
     background-image: url("../images/frenchgallery/img6.jpg");
 }
 
+.img-6-portugese{
+    grid-area: img-6-portugese;
+    min-height: 51.5rem;
+    background-image: url("../images/portugesecamino/img6.jpg");
+}
+
 .img-7{
     grid-area: img-7;
     background-image: url("../images/frenchgallery/img7.jpg");
 }
 
+.img-7-portugese{
+    grid-area: img-7-portugese;
+    background-image: url("../images/portugesecamino/img7.jpg");
+}
+
 .img-8{
     grid-area: img-8;
     background-image: url("../images/frenchgallery/img8.jpg");
+}
+
+.img-8-portugese{
+    grid-area: img-8-portugese;
+    background-image: url("../images/portugesecamino/img8.jpg");
 }
 
 .img-9{
@@ -507,9 +607,20 @@ body{
     background-image: url("../images/frenchgallery/img9.jpg");
 }
 
+.img-9-portugese{
+    grid-area: img-9-portugese;
+    min-height: 51.5rem;
+    background-image: url("../images/portugesecamino/img9.jpg");
+}
+
 .img-10{
     grid-area: img-10;
     background-image: url("../images/frenchgallery/img10.jpg");
+}
+
+.img-10-portugese{
+    grid-area: img-10-portugese;
+    background-image: url("../images/portugesecamino/img10.jpg");
 }
 
 .img-11{
@@ -517,14 +628,29 @@ body{
     background-image: url("../images/frenchgallery/img11.jpg");
 }
 
+.img-11-portugese{
+    grid-area: img-11-portugese;
+    background-image: url("../images/portugesecamino/img11.jpg");
+}
+
 .img-12{
     grid-area: img-12;
     background-image: url("../images/frenchgallery/img12.jpg");
 }
 
+.img-12-portugese{
+    grid-area: img-12-portugese;
+    background-image: url("../images/portugesecamino/img12.jpg");
+}
+
 .img-13{
     grid-area: img-13;
     background-image: url("../images/frenchgallery/img13.jpg");
+}
+
+.img-13-portugese{
+    grid-area: img-13-portugese;
+    background-image: url("../images/portugesecamino/img13.jpg");
 }
 
 .img-14{
@@ -533,14 +659,30 @@ body{
     background-image: url("../images/frenchgallery/img14.jpg");
 }
 
+.img-14-portugese{
+    grid-area: img-14-portugese;
+    min-height: 51.5rem;
+    background-image: url("../images/portugesecamino/img14.jpg");
+}
+
 .img-15{
     grid-area: img-15;
     background-image: url("../images/frenchgallery/img15.jpg");
 }
 
+.img-15-portugese{
+    grid-area: img-15-portugese;
+    background-image: url("../images/portugesecamino/img15.jpg");
+}
+
 .img-16{
     grid-area: img-16;
     background-image: url("../images/frenchgallery/img16.jpg");
+}
+
+.img-16-portugese{
+    grid-area: img-16-portugese;
+    background-image: url("../images/portugesecamino/img16.jpg");
 }
 
 
