@@ -222,6 +222,11 @@ body{
     color:#171717;
 }
 
+#portugese-camino-page-title{
+    padding-top: 1.5em;
+    color:#171717;
+}
+
 #french-camino-page-banner {
     background-image: url(../images/horses_french.jpg);
     background-repeat: no-repeat;
@@ -745,6 +750,10 @@ color: white;
         color:#171717;
         text-align: center;
     }
+    #portugese-camino-page-title{
+        padding-top: 1.5em;
+        text-align: center;
+    }
     
 
     #intro-text{
@@ -811,6 +820,11 @@ color: white;
 
     #intro-text{
         width: 60%;
+    }
+
+    #portugese-camino-page-title{
+        padding-top: 1.5em;
+        text-align: center;
     }
 
     .image-gallery{
@@ -888,6 +902,10 @@ color: white;
         text-align: center;
         margin-top: 2em;
         }
+
+    #portugese-camino-page-intro {
+        margin-top: 20px;
+    }
 }
 
 /* For smaller screen sizes from 576 px wide and down */
