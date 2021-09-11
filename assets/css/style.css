@@ -212,9 +212,23 @@ body{
     padding-top: 1.75em;
     padding-bottom: 1.5em;
 }
+#madrid-camino-page-intro {
+    background-color: #FF2442;
+    color: 171717;
+    font-family: Barlow, sans-serif;
+    font-weight: 500;
+    border-radius: 3px;
+    padding: 1.75em;
+    padding-top: 1.75em;
+    padding-bottom: 1.5em;
+}
 
 #portugese-camino-page-intro p strong{
     color: #FFB830;
+}
+
+#madrid-camino-page-intro p strong{
+    color: white;
 }
 
 #french-camino-page-title {
@@ -250,6 +264,20 @@ body{
     margin-top: 2em !important;
     margin-bottom: 2em !important; 
 }
+
+#madrid-camino-page-banner {
+    background-image: url(../images/madrid-page-banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    height: 472px;
+    border-radius: 3px;
+    margin-top: 2em !important;
+    margin-bottom: 2em !important; 
+}
+
+
 
 /* Stats section of French Camino Page */
 
