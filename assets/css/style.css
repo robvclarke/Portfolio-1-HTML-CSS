@@ -189,7 +189,7 @@ body{
     border-bottom-right-radius: 3px;
 }
 
-/* French Camino Page Styling */
+/* Camino Pages Styling */
 
 #french-camino-page-intro {
     background-color: #FFB830;
@@ -200,6 +200,21 @@ body{
     padding: 1.75em;
     padding-top: 1.75em;
     padding-bottom: 1.5em;
+}
+
+#portugese-camino-page-intro {
+    background-color: #171717;
+    color: white;
+    font-family: Barlow, sans-serif;
+    font-weight: 400;
+    border-radius: 3px;
+    padding: 1.75em;
+    padding-top: 1.75em;
+    padding-bottom: 1.5em;
+}
+
+#portugese-camino-page-intro p strong{
+    color: #FFB830;
 }
 
 #french-camino-page-title {
