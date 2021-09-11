@@ -748,4 +748,25 @@ color: white;
         width: 20%;
         padding-top: 24px;
     }
+    .weather-label{
+        background-color: #FF2442;
+        width: 20%;
+        margin-left: 40%;
+        margin-right: 40%;
+        text-align: center;
+    }
+    .elevation-label{
+        background-color: #3DB2FF;
+        width: 25%;
+        margin-left: 37%;
+        margin-right: 37%;
+        text-align: center;
+    }
+    .distance-label{
+        background-color: #FFEDDA;
+        width: 25%;
+        margin-left: 37%;
+        margin-right: 37%;
+        text-align: center;
+    }
 }
