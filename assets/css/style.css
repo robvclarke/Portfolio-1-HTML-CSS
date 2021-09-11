@@ -241,6 +241,11 @@ body{
     color:#171717;
 }
 
+#madrid-camino-page-title {
+    padding-top: 1.5em;
+    color:#171717;
+}
+
 #french-camino-page-banner {
     background-image: url(../images/horses_french.jpg);
     background-repeat: no-repeat;
@@ -315,6 +320,11 @@ body{
 
 #portugese-weather-section{
     margin-top: 1.2em;
+    text-align: center;
+}
+
+#madrid-weather-section {
+    margin-top: 1.5em;
     text-align: center;
 }
 
@@ -402,6 +412,11 @@ body{
 #portugese-iframe-map-section {
     height: 542px;
     background-color: #171717;
+}
+
+#madrid-iframe-map-section {
+    height: 542px;
+    background-color: #FF2442;
 }
 
 #our-route-logo{
