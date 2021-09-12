@@ -1369,6 +1369,27 @@ color: white;
         text-align: center;
     }
 
+    .portugese-camino-card > h2 > img {
+        padding-bottom: .5em;
+        width: 85%;
+    }
+
+    .portugese-camino-card p {
+        padding-bottom: 1em;
+        padding-right: 2em;
+    }
+
+    .madrid-camino-card > h2 > img {
+        padding-bottom: .5em;
+        width: 95%;
+    }
+
+    .madrid-camino-card > button {
+        margin-right: 36%;
+        margin-left: 24%;
+        text-align: center;
+    }
+
    
 
     #stats-logo{
