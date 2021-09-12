@@ -922,7 +922,7 @@ color: white;
 
 #contact-background {
     height: 100vh;
-    background-image: url('../images/contact_us_greyscale_cropped.jpg');
+    background-image: url('../images/contact_us_greyscale_cropped.jpg') alt="lads sitting on corner resting";
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -932,9 +932,11 @@ color: white;
 .contact-form{
     background-color: rgba(255, 255, 255, .9);
     width: 40%;
+    height: 80vh;
     padding: 3em;
     margin-left: 60%;
     margin-top: 48px;
+    margin-bottom: 24px;
     border-radius: 3px;
     right: 4em;
     font-family: Barlow, sans-serif;
