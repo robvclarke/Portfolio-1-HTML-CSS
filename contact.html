@@ -56,23 +56,37 @@
       <div id="contact-background">
             <div class="container">
                 <form class="contact-form">
+                    <div class="contact-logo">
+                        <img src="/assets/images/contact-us.svg" alt="contact us logo">
+                    </div>
                     <div class="mb-3">
                         <label for="exampleInputPassword1" class="form-label">Your Name</label>
                         <input type="text" class="form-control" id="exampleInputPassword1">
                       </div>
                     <div class="mb-3">
-                      <label for="exampleInputEmail1" class="form-label">Email address</label>
+                      <label for="exampleInputEmail1" class="form-label">Email Address</label>
                       <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-                      <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                      <div id="emailHelp" class="form-text" style="color: #171717;">We'll never share your email with anyone else.</div>
                     </div>
+                    <div class="mb-3">
+                    <label for="Camino of Interest" class="form-label">Camino of Interest</label><br>
+                    <input type="text" name="camino of Interest" list="Camino of Interest" placeholder="   Select Camino">
+                            <datalist id="Camino of Interest">
+                            <option value="Camino Frances">
+                            <option value="Camino Portugese">
+                            <option value="Camino de Madrid"></option>
+                            </datalist>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleFormControlTextarea1">Your Message</label>
+                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" style="margin-bottom: 24px;"></textarea>
+                      </div>
                 
-                    <div class="mb-3 form-check">
-                      <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                      <label class="form-check-label" for="exampleCheck1">Check me out</label>
-                    </div>
-                    <button type="submit" class="btn btn-primary">Submit</button>
+        
+                    <button type="submit" class="btn btn-primary" style="background-color: #FFB830; border: 0; color: #171717;">Submit</button>
                   </form>
             </div>
+           
         </div>
     
         

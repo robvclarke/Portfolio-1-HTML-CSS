@@ -930,12 +930,22 @@ color: white;
 }
 
 .contact-form{
-    background-color: rgba(255, 255, 255, .8);
+    background-color: rgba(255, 255, 255, .9);
     width: 40%;
     padding: 3em;
-    margin-left: 60% ;
-    margin-top: 32px;
+    margin-left: 60%;
+    margin-top: 48px;
     border-radius: 3px;
+    right: 4em;
+    font-family: Barlow, sans-serif;
+    font-weight: 500;
+    color: #171717;
+    text-decoration: none;
+}
+
+.contact-logo{
+    margin-bottom: 24px;
+    text-align: center;
 }
 
 /* For large screen sizes from 1200 px wide and down */
@@ -949,6 +959,11 @@ color: white;
         padding-top: 2em;
         color:#171717;
         text-align: center;
+    }
+    .contact-form{
+        width: 60%;
+        margin-left: 20%;
+        margin-right: 20%;
     }
 }
 
@@ -1029,6 +1044,12 @@ color: white;
         border-top-right-radius: 3px;
         border-top-left-radius: 3px;
     }
+    .contact-form{
+        width: 60%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
 
 
 /* For smallish screen sizes from 992 px wide and down */
@@ -1141,6 +1162,10 @@ color: white;
     .img-14-madrid{
         min-height: 20rem;
     }
+    .contact-form{
+        width: 70%;
+        margin-left: 15%;
+    }
 }
 
 /* For small screen sizes from 768 px wide and down */
@@ -1167,6 +1192,11 @@ color: white;
     #madrid-camino-page-title {
         padding-top: 2em;
         text-align: center;
+    }
+
+    .contact-form{
+        width: 80%;
+        margin-left: 10%;
     }
 }
 
@@ -1314,5 +1344,9 @@ color: white;
     }
     .madrid-camino-card h2 img{
         padding-right: 1.5em;
+    }
+    .contact-form{
+        width: 95%;
+        margin-left: 2.5%;
     }
 }
