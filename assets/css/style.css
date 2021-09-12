@@ -4,8 +4,12 @@
 
 /* Navbar styling */
 
-body{
+.main{
     padding-top: 6em;
+}
+
+#contact-body{
+    padding-top: 0px;
 }
 
 .navbar{
@@ -284,7 +288,7 @@ body{
 
 
 
-/* Stats section of French Camino Page */
+/* Stats section of Camino Pages */
 
 #stats-logo{
     padding-left: 45%;
@@ -402,7 +406,7 @@ body{
 
 }
 
-/* Map Section of French Camino Page */
+/* Map Section of Camino Pages */
 
 #france-iframe-map-section {
         height: 542px;
@@ -912,6 +916,17 @@ color: white;
     text-decoration: none;
     font-family: Barlow;
     color: white;
+}
+
+/* Contact page */
+
+#contact-background {
+    height: 100vh;
+    background-image: url('/assets/images/contact_us_greyscale.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
 }
 
 /* For large screen sizes from 1200 px wide and down */
