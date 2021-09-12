@@ -922,7 +922,7 @@ color: white;
 
 #contact-background {
     height: 100vh;
-    background-image: url('/assets/images/contact_us_greyscale_cropped.jpg');
+    background-image: url('../images/contact_us_greyscale_cropped.jpg' alt="men sitting on a step taking a rest with beers");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
