@@ -922,7 +922,7 @@ color: white;
 
 #contact-background {
     height: 100vh;
-    background-image: url('../images/contact_us_greyscale_cropped.jpg') alt="lads sitting on corner resting";
+    background-image: url('../images/contact_us_greyscale_cropped.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
