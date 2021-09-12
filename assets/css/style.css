@@ -922,11 +922,20 @@ color: white;
 
 #contact-background {
     height: 100vh;
-    background-image: url('/assets/images/contact_us_greyscale.jpg');
+    background-image: url('/assets/images/contact_us_greyscale_cropped.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     overflow: hidden;
+}
+
+.contact-form{
+    background-color: rgba(255, 255, 255, .8);
+    width: 40%;
+    padding: 3em;
+    margin-left: 60% ;
+    margin-top: 32px;
+    border-radius: 3px;
 }
 
 /* For large screen sizes from 1200 px wide and down */
