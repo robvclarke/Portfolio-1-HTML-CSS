@@ -119,6 +119,8 @@ The icon in the photo gallery when you hover on an image was made by Ionic Icons
 
 Link for Ionic Icons [Ionic](https://ionic.io/ionicons)
 
+The image at the start of my readme with the site on different devices was made using [Am I responsive](http://ami.responsivedesign.is/#)
+
 
 
 
