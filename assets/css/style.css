@@ -1198,6 +1198,29 @@ color: white;
     
     #intro-text{
         width: 80%;
+        text-align: center;
+        margin-left: 3em;
+    }
+    #french-camino-page-title {
+        color:#171717;
+        text-align: center;
+        padding-top: 3em;
+    }
+
+    .french-camino-card > button {
+        margin-right: 30%;
+        margin-left: 26%;
+        text-align: center;
+    }
+
+    .portugese-camino-card > button {
+        text-align: center;
+        margin-left: 2em;
+    }
+
+    .madrid-camino-card > button {
+        text-align: center;
+        margin-left: 0em;
     }
 
     .image-gallery{
