@@ -17,7 +17,7 @@ I began by created a pintrest page so I had a moodboard for the design where I g
 
 The link to the Pintrest moodboard I created can be found here [Moodboard](https://pin.it/nPuxeAm)
 
-## Sitemap and Priority Guide
+## Sitemap, Features and Priority Guide
 
 I then went into Figma and created a sitemap and priority guide of features based around the user goals I wrote up for each page. 
 
@@ -109,7 +109,58 @@ Link for the designs in Figma [Figma Responsive Contact Page](https://www.figma.
 
 ![Responsive Camino Pages](/assets/images/responsive_contact_page.png)
 
+## Testing
+
+I optimised my images for web in photoshop by using the 'export as' feature setting the quality to 50 percent and dividing the size of the images in half. This paid off in the testing 
+where lighthouse gave it a '95' performance rating. The only aspect it scored badly was on SEO which I know is from me not adding the meta tags to the html which was a result of paucity of time. 
+
+![Lighthouse Testing](/assets/images/lighthouse_testing.png)
+
+I then ran the code through the W3 code validator for the html:
+
+![w3 validator test](/assets/images/testing_w3.png)
+
+Errors 1 & 5 were a lack of section headings which I think was a result of me using SVGs for my section headings which I forgot to place within headers and did not remedy as I ran out of time. 
+
+Errors 2,3 & 4 were as a result of having an a element with my button which was the solution I arrived at and it works but must be semantically not best practice which I would have fixed had I had more time. 
+
+The CSS testing is something I realise I should have been validating as I went as I had 27 errors at the end. However, none of these errors were affecting the behaviour of the site as far as I could tell but I know I should have figured out how to fix them if I had managed my time better.
+
+![w3 CSS test](/assets/images/css_validator.png)
+
+The only bug of the site that I was not able to figure out how to fix was the form background color on mobile as I had the height controlled by 80vh and on smaller screens this was too small to contain the content of the form. It was the last bug I noticed and couldn't figure out how to fix it in time as when I switched between a pixel setting for the height for mobile and then the vh parameter at larger screen sizes it caused more errors which I did not understand how to fix either.
+
+![w3 CSS test](/assets/images/contact_form_background_height.png)
+
+A learning I took from the project was to make sure I test regularly on a mobile device rather than just resizing the browser as you gain far more actually seeing it on your phone. 
+
+I ran it through the validator on [Web Accessibilty](https://www.webaccessibility.com/) and was delighted that the site was given a 100 percent health score. 
+
+![Accessibility testing](/assets/images/accessibility.png)
+
+## Deployment
+
+I tried to commit regularly and with descriptive commits ended up with 99 by the end and reaching 100 with this final addition to the readme. 
+
+I found the process of Deploying on github pages pretty straightforward. 
+
+![Publishing on Github Pages](/assets/images/deployment.png)
+
+I clicked into settings. Then found the pages setting and published the site. It took about 15 minutes or so before the link worked but then it was great as I could share the work with friends and family and also use it to test on my mobile phone to make sure my responsive designs were correct. 
+
+The only thing that was slightly confusing was that they now use the term main branch rather than master which is how they referred to it in the tutorials but a quick google of the difference and I had figured it out. 
+
+## If I had more time
+
+If I had more time I would have liked to have figured out a way that clicking on an image in my photo gallery would have brought you back to the page after it took over the tab. As a fix I used a target=_blank so that the image opens in a new tab but I still dont think it is an ideal user experience.
+
+I omitted some nice to have features like the video gallery that I had in the priority guide I created and spoke about in the beginning of my readme. This was mainly because when I reviewed the videos I had they would have only have been funny to close friends and I wanted to make the site more universal. 
+
+I also omitted a section I was calling 'The crew' which was in the wireframes where I would have given an introduction to each of the companions we had on each march but as the make up of the groups was very similar each year I decided it was not important. 
+
 ## Credits
+
+I used the 'Bootstrap' library to aid me in replicating my designs as best I could with the code.
 
 I coded the photo gallery section of the camino pages with the help of this Youtube tutorial
 
@@ -120,6 +171,8 @@ The icon in the photo gallery when you hover on an image was made by Ionic Icons
 Link for Ionic Icons [Ionic](https://ionic.io/ionicons)
 
 The image at the start of my readme with the site on different devices was made using [Am I responsive](http://ami.responsivedesign.is/#)
+
+I would like to thank my mentor Reuben who was very supportive, informative and encouraging throughout. 
 
 
 
