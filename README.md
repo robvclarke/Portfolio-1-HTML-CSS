@@ -42,6 +42,31 @@ I then went into Figma and created a sitemap and priority guide of features base
 
 The link to the Sitemap and Priorty guide I designed in Figma can be found here [Sitemap_Priority_Guide](https://www.figma.com/file/reC3Fy6xJeDvUtkPXHmQZE/Main-File?node-id=0%3A1)
 
+### Features for Landing page
+
+1. Navigation header to allow the user to navigate to the area of the site of most interest to them with ease.
+2. Hero image to showcase the beauty of the camino and makes the user want to know more/figure out how they can visit themself.
+3. Site explanation explaining the purpose of the site and the kind of information the user can expect to find.
+4. Section areas giving a brief synopsis of a particular camino and call to action button where they can click to learn more.
+
+### Features for Camino pages
+
+1. Navigation header to allow the user to navigate to the area of the site of most interest to them with ease.
+2. Page title and description with text explaining the purpose of the page and the kind of information the user can expect to find.
+3. A hero image to draw the user in and showcase the beauty of the particular camino. 
+4. Key Stats - a section focusing on bite sized statistics related to this route.
+5. An iframe displaying a google map of the route. 
+6. A gallery section for each route showing the fun, beauty and challenge of the walks.
+
+### Features for the Contact Page
+
+1. A form users can fill out to request further information about any point of interest they have. 
+2. An input field for their name. 
+3. An input field for their email address.
+4. An dropdown menu where they can select their camino of interest. 
+5. A input area for the users message that can be expanded if they wish to send a long email.
+6. A submit button to complete the form.
+
 ## Sketched Wireframes
 
 In the interest of quickly getting ideas out I began sketching wireframes with pencil and paper for each page of the website based off of the features I had decided on in the priority guide exercise. 
