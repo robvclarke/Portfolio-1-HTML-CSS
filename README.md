@@ -4,6 +4,8 @@ Each summer, between 2017 - 2019, I went on a long walk over several days with m
 
 ![Responsive Designs](/assets/images/responsive-design.png)
 
+[Link to deployed site](https://robvclarke.github.io/Portfolio-1-HTML-CSS/)
+
 
 ## Project Kickoff
 
@@ -78,7 +80,6 @@ Link to the Figma Designs [Designs](https://www.figma.com/file/reC3Fy6xJeDvUtkPX
 
 Once I had the designs I made a clickable prototype in Figma to figure out some of the hoover states of buttons and see how the pages flow together.
 
-
 Link for the clickable prototype can be accessed here [Figma Prototype](https://www.figma.com/proto/reC3Fy6xJeDvUtkPXHmQZE/Main-File?page-id=10%3A2&node-id=10%3A8675&viewport=241%2C48%2C0.25&scaling=min-zoom&starting-point-node-id=10%3A8675&show-proto-sidebar=1) 
 
 
@@ -108,6 +109,26 @@ The final thing to design then was the contact page across the breakpoints. This
 Link for the designs in Figma [Figma Responsive Contact Page](https://www.figma.com/file/reC3Fy6xJeDvUtkPXHmQZE/Main-File?node-id=101%3A81)
 
 ![Responsive Camino Pages](/assets/images/responsive_contact_page.png)
+
+User Goals
+
+## User Stories
+
+### First time visitor goals
+
+1. As a first time visitor, I want to be able to find out easily what the purpose of the site is.
+2. As a first time visitor, I want the navigation to be easy to grasp and feel smooth moving between pages.
+3. As a first time visitor, I want the visuals of the site to get me excited about my own potential trip. 
+4. As a first time visitor, I want the content of the site to be clearly seperated into sections that make sense.
+5. As a first time visitor, I want there to be a form where I can reach out for more information to the site owner if I require it.
+6. As a first time visitor, I want the site to be responsive so that I can browse the content with ease on my mobile.
+
+### Returning visitor goals
+
+1. As a returning visitor, I want the routes taken on the caminos to be clearly marked out on maps so I can review my own route regularly and see if I want to make changes.
+1. As a returning visitor, I want the stats of each route to be clearly marked so I can compare and discuss with the people I will be walking with. 
+3. As a returning visitor, I want there to be enough variety/quality in the images displayed for each route that I will want to come back to get new ideas about where I might stop off myself.
+
 
 ## Testing
 
