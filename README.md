@@ -21,6 +21,9 @@ Each summer, between 2017 - 2019, I went on a long walk over several days with m
 12. [User Stories](#User-Stories)
 13. [Testing](#Testing)
 14. [Technologies](#Technologies)
+15. [Deployment](#Deployment)
+16. [If I had more time...](#If-I-had-more-time)
+17. [Credits](#Credits)
 
 ## Project Kickoff
 
@@ -225,15 +228,13 @@ I ran it through the validator on [Web Accessibilty](https://www.webaccessibilit
 
 ## Deployment
 
-I tried to commit regularly and with descriptive commits ended up with 99 by the end and reaching 100 with this final addition to the readme. 
+I deployed my project to Github pages by doing the following steps:
 
-I found the process of Deploying on github pages pretty straightforward. 
-
-![Publishing on Github Pages](/assets/images/deployment.png)
-
-I clicked into settings. Then found the pages setting and published the site. It took about 15 minutes or so before the link worked but then it was great as I could share the work with friends and family and also use it to test on my mobile phone to make sure my responsive designs were correct. 
-
-The only thing that was slightly confusing was that they now use the term main branch rather than master which is how they referred to it in the tutorials but a quick google of the difference and I had figured it out. 
+1. I logged into Gitbuh and opened my repository for my Portfolio 1 project.
+2. I clicked into settings.
+3. Once in settings, I scrolled to the section titled 'Pages'. 
+4. For the source, I selected Main Branch. 
+5. This caused the link to the live website to appear on the page. 
 
 ## If I had more time
 
