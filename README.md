@@ -201,9 +201,9 @@ I ran it through the validator on [Web Accessibilty](https://www.webaccessibilit
 
 ## Technologies
 
-- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) to make up the basic elements and structure of the website.
 
-- [CSS 2.1](https://en.wikipedia.org/wiki/CSS)
+- [CSS 2.1](https://en.wikipedia.org/wiki/CSS) for custom styling and to alter the bootstrap stylings to suit my needs.
 
 - [Bootstrap v5.1.3](https://getbootstrap.com/) was used for its grid features and handy components. 
 
