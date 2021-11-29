@@ -776,8 +776,8 @@ body {
 }
 .contact-form{
     background-color: rgba(255, 255, 255, .9);
-    width: 40%;
-    height: 80vh;
+    width: 30%;
+    height: 650px;
     padding: 3em;
     padding-top: 5%;
     padding-bottom: 5%;
@@ -807,6 +807,7 @@ body {
    }
     .contact-form{
         width: 60%;
+        height: 650px;
         margin-left: 20%;
         margin-right: 20%;
    }
@@ -879,6 +880,7 @@ body {
    }
     .contact-form{
         width: 60%;
+        height: 650px;
         margin-left: 10%;
         margin-right: 10%;
    }
@@ -938,6 +940,7 @@ body {
    }
     .contact-form{
         width: 70%;
+        height: 650px;
         margin-left: 15%;
    }
 }
@@ -1070,6 +1073,7 @@ body {
    }
     .contact-form{
         width: 95%;
+        height: 650px;
         margin-left: 2.5%;
         height: 80vh;
    }
@@ -1169,7 +1173,7 @@ body {
     .contact-form{
         background-color: rgba(255, 255, 255, .9);
         width: 95%;
-        height: 95vh;
+        height: 650px;
         padding: 3em;
         padding-top: 5%;
         padding-bottom: 5%;
@@ -1245,7 +1249,7 @@ body {
     .contact-form{
         background-color: rgba(255, 255, 255, .9);
         width: 95%;
-        height: 100vh;
+        height: 650px;
         padding: 3em;
         padding-top: 5%;
         padding-bottom: 5%;
