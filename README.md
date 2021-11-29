@@ -8,21 +8,19 @@ Each summer, between 2017 - 2019, I went on a long walk over several days with m
 
 ## Table of contents
 1. [Project Kickoff](#Project-Kickoff)
-2. [UX](#UX)
-    * [Site owner goals](#site-owner-goals)
-    * [User needs](#user-needs)
-3. [Features](#features)
-    * [Existing features](#existing-features)
-    * [Features left to implement](#fPotential-Future-Features)
-4. [Technologies](#Technologies)
-5. [Testing](#testing)
-    * [User needs](#user-needs)
-    * [Challenges](#challenges)
-    * [PEP8 Online Code Checker](#PEP8-Online-Code-Checker)
-    * [Unfixed bugs](#Unfixed-bugs)
-6. [Deployment](#deployment)
-7. [Credits](#credits)
-
+2. [Moodboard and Inspiration](#Moodboard-and-Inspiration)
+3. [Sitemap, Features and Priority Guide](#Sitemap,-Features-and-Priority-Guide)
+4. [Sketched Wireframes](#Sketched-Wireframes)
+5. [Color Pallete](#Color-Pallete)
+6. [Typography](#Typography)
+7. [Photography](#Photography)
+8. [Typography](#Icons)
+9. [Designs](#Designs)
+10. [Clickable Prototype](#Clickable-Prototype)
+11. [Responsive Designs](#Responsive-Designs)
+12. [User Stories](#User-Stories)
+13. [Testing](#Testing)
+14. [Technologies](#Technologies)
 
 ## Project Kickoff
 
