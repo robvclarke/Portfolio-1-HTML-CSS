@@ -909,9 +909,21 @@
 .button-french{
 text-decoration: none;
 font-family: Barlow;
-color: white;
-
+color: black;
 }
+
+.button-portugese{
+    text-decoration: none;
+    font-family: Barlow;
+    color: white;
+    }
+
+.button-border{
+    border: 1px;
+    border-color: white;
+    border-radius: 5px;
+}
+
 .button-french:hover{
     text-decoration: none;
     font-family: Barlow;
