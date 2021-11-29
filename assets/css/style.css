@@ -1089,6 +1089,7 @@ body {
         width: 80%;
         text-align: center;
         padding: 10px;
+        margin-left: 2em;
    }
     .french-camino-card > h2 > img {
         padding-bottom: .5em;
@@ -1203,6 +1204,7 @@ body {
         width: 80%;
         text-align: center;
         padding: 10px;
+        margin-left: 2em;
    }
     .french-camino-card > h2 > img {
         padding-bottom: 0;
@@ -1214,8 +1216,9 @@ body {
         padding-bottom: .5em;
         padding-right: 2.5em;
    }
-    .french-camino-card > button {
-        margin-left: 18%;
+   .button-french {
+       text-align: center;
+       margin-left: 0;
    }
     .portugese-camino-card > h2 > img {
         padding-bottom: .5em;
