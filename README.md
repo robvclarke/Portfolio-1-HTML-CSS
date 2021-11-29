@@ -1,3 +1,5 @@
+# 3 Caminos
+
 ![Responsive Designs](/assets/images/readme-banner.png)
 
 Each summer, between 2017 - 2019, I went on a long walk over several days with my friends. This website documents those 3 adventures. Hopefully, it will wet your appetite for an adventure of your own.
