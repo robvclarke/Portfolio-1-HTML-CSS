@@ -230,7 +230,7 @@ I ran it through the validator on [Web Accessibilty](https://www.webaccessibilit
 
 I deployed my project to Github pages by doing the following steps:
 
-1. I logged into Gitbuh and opened my repository for my Portfolio 1 project.
+1. I logged into Github and opened my repository for my Portfolio 1 project.
 2. I clicked into settings.
 3. Once in settings, I scrolled to the section titled 'Pages'. 
 4. For the source, I selected Main Branch. 
