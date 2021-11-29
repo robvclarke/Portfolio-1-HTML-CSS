@@ -791,6 +791,10 @@
 }
 /* For large screen sizes from 1200 px wide and down */
 @media screen and (max-width: 1200px) {
+    .container {
+        max-width: 1140px !important;
+        overflow-x: hidden !important;
+    }
     #intro-text{
         width: 50%;
    }
@@ -809,6 +813,13 @@
 /* For medium screen sizes from 992 px wide and down */
 /* For smallish screen sizes from 992 px wide and down */
 @media screen and (max-width: 992px) {
+    body {
+        overflow-x: auto !important;
+    }
+    .container {
+        max-width: 960px !important;
+        overflow-x: hidden !important;
+    }
     #french-camino-page-title {
         color:#171717;
         text-align: center;
@@ -940,6 +951,13 @@
 }
 /* For small screen sizes from 768 px wide and down */
 @media screen and (max-width: 768px) {
+    body {
+        overflow-x: auto !important;
+    }
+    .container {
+        max-width: 720px !important;
+        overflow-x: hidden !important;
+    }
     #french-camino-page-title {
         color:#171717;
         text-align: center;
@@ -968,10 +986,10 @@
 /* For smaller screen sizes from 576 px wide and down */
 @media screen and (max-width: 576px) {
     body {
-        overflow-x: hidden !important;
+        overflow-x: auto !important;
     }
     .container {
-        max-width: 100% !important;
+        max-width: 560px !important;
         overflow-x: hidden !important;
     }
     .hero-logo{
