@@ -2,9 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dokdo&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200;400;500;700&display=swap');
 /* Navbar styling */
-body {
-    overflow-x: hidden !important;
-}
+
 .main{
     padding-top: 6em;
 }
@@ -969,6 +967,13 @@ body {
 }
 /* For smaller screen sizes from 576 px wide and down */
 @media screen and (max-width: 576px) {
+    body {
+        overflow-x: hidden !important;
+    }
+    .container {
+        max-width: 100% !important;
+        overflow-x: hidden !important;
+    }
     .hero-logo{
         font-size: 6em;
    }
@@ -1076,6 +1081,13 @@ body {
 }
 /* For very small screen sizes from 480 px wide and down */
 @media screen and (max-width: 480px) {
+    body {
+        overflow-x: hidden !important;
+    }
+    .container {
+        max-width: 100% !important;
+        overflow-x: hidden !important;
+    }
     .hero-logo{
         font-size: 4em;
         margin-left: 7%;
@@ -1191,6 +1203,13 @@ body {
 }
 /* For very very small screen sizes from 320 px wide and down */
 @media screen and (max-width: 320px) {
+    body {
+        overflow-x: hidden !important;
+    }
+    .container {
+        max-width: 100% !important;
+        overflow-x: hidden !important;
+    }
     .hero-logo{
         font-size: 3.5em;
         margin-left: 5%;
