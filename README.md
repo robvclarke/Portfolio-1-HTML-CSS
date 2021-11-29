@@ -205,19 +205,23 @@ I ran it through the validator on [Web Accessibilty](https://www.webaccessibilit
 
 - [CSS 2.1](https://en.wikipedia.org/wiki/CSS)
 
-- [Bootstrap v5.1.3](https://getbootstrap.com/) 
+- [Bootstrap v5.1.3](https://getbootstrap.com/) was used for its grid features and handy components. 
 
 - [Figma](https://www.figma.com) was used to create the design of all pages on the site as well as the sitemap and other assets.
 
 - [Adobe Illustrator](https://www.adobe.com) was used to create the icons for the site
 
-- [Adobe Photoshop]((https://www.adobe.com)) was used to edit the images used for the site
+- [Adobe Photoshop](https://www.adobe.com)) was used to edit the images used for the site
 
 - [Github](https://github.com) was used for version control, storing the code and deployment of the live site via Github pages
 
 - [Gitpod](https://gitpod.io) was used to code the site
 
 - [Google Fonts](https://fonts.google.com/) was used to import the font Dokdo and the font Barlow
+
+- [Pintrest](https://www.pinterest.com) was used to create the moodboard at the start of the project. 
+
+- [Am I responsive?](http://ami.responsivedesign.is) was used for the banner image of the site across various devices at the start of the readme.
 
 ## Deployment
 
