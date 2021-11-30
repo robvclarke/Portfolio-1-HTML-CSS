@@ -175,32 +175,31 @@ User Goals
 
 ## Testing
 
-I optimised my images for web in photoshop by using the 'export as' feature setting the quality to 50 percent and dividing the size of the images in half. This paid off in the testing 
-where lighthouse gave it a '95' performance rating. The only aspect it scored badly was on SEO which I know is from me not adding the meta tags to the html which was a result of paucity of time. 
+### W3C HTML Validator
 
-![Lighthouse Testing](/assets/images/lighthouse_testing.png)
+All the html pages of my project passed the html W3C Markup Validator with no errors.
 
-I then ran the code through the W3 code validator for the html:
+You can see a screenshot of the index.html validation test below: 
+![Index HTML TEST](/assets/images/index_html_test.png)
 
-![w3 validator test](/assets/images/testing_w3.png)
+You can see a screenshot of the french.html validation test below: 
+![French HTML TEST](/assets/images/french_html_test.png)
 
-Errors 1 & 5 were a lack of section headings which I think was a result of me using SVGs for my section headings which I forgot to place within headers and did not remedy as I ran out of time. 
+You can see a screenshot of the portugese.html validation test below: 
+![Portugese HTML TEST](/assets/images/portugese_html_test.png)
 
-Errors 2,3 & 4 were as a result of having an a element with my button which was the solution I arrived at and it works but must be semantically not best practice which I would have fixed had I had more time. 
+You can see a screenshot of the madrid.html validation test below: 
+![Madrid HTML TEST](/assets/images/madrid_html_test.png)
 
-The CSS testing is something I realise I should have been validating as I went as I had 27 errors at the end. However, none of these errors were affecting the behaviour of the site as far as I could tell but I know I should have figured out how to fix them if I had managed my time better.
+You can see a screenshot of the contact.html validation test below: 
+![Contact HTML TEST](/assets/images/contact_html_test.png)
 
-![w3 CSS test](/assets/images/css_validator.png)
+### W3C CSS Validator
 
-The only bug of the site that I was not able to figure out how to fix was the form background color on mobile as I had the height controlled by 80vh and on smaller screens this was too small to contain the content of the form. It was the last bug I noticed and couldn't figure out how to fix it in time as when I switched between a pixel setting for the height for mobile and then the vh parameter at larger screen sizes it caused more errors which I did not understand how to fix either.
+The CSS passed the W3C CSS Validation service with no errors: 
 
-![w3 CSS test](/assets/images/contact_form_background_height.png)
-
-A learning I took from the project was to make sure I test regularly on a mobile device rather than just resizing the browser as you gain far more actually seeing it on your phone. 
-
-I ran it through the validator on [Web Accessibilty](https://www.webaccessibility.com/) and was delighted that the site was given a 100 percent health score. 
-
-![Accessibility testing](/assets/images/accessibility.png)
+You can see a screenshot of the results below: 
+![CSS Validator](/assets/images/css_validation.png)
 
 ## Technologies
 
