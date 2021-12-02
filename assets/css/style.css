@@ -27,7 +27,7 @@
 }
 /* Hero image and Intro Text */
 #hero {
-    background-image: url(../images/hero_image_landing.jpg);
+    background-image: url(../images/reduced_home_banner.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -121,7 +121,7 @@
     text-align: right;
 }
 #portugese-image {
-    background-image: url(../images/Camino_Portugese.jpg);
+    background-image: url(../images/Portugal_Card.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -156,7 +156,7 @@
     padding-right: 2em;
 }
 #madrid-image {
-    background-image: url(../images/madrid_banner.jpg);
+    background-image: url(../images/Madrid_Card.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -216,7 +216,7 @@
     color:#171717;
 }
 #french-camino-page-banner {
-    background-image: url(../images/horses_french.jpg);
+    background-image: url(../images/french_horses.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

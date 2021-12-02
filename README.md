@@ -201,6 +201,10 @@ The CSS passed the W3C CSS Validation service with no errors:
 You can see a screenshot of the results below: 
 ![CSS Validator](/assets/images/css_validation.png)
 
+### Lighthouse 
+
+
+
 ## Technologies
 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) to make up the basic elements and structure of the website.
