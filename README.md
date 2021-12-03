@@ -207,13 +207,13 @@ You can see a screenshot of the results below:
 
 I generated a lighthouse report for all pages with the desktop radio button selected and all were marked a progressive web app: 
 
-![Lighthouse Desktop](/assets/images/lighthouse_testing_desktop.png)
+![Lighthouse Desktop](/assets/images/lighthouse_testing_desktop.jpg)
 
 #### Lighthouse Mobile Reports 
 
 I generated a lighthouse report for all pages with the mobile radio button selected and all were marked a progressive web app: 
 
-![Lighthouse mobile](/assets/images/lighthouse_testing_mobile.png)
+![Lighthouse mobile](/assets/images/lighthouse_testing_mobile.jpg)
 
 ## Technologies
 
