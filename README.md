@@ -14,7 +14,7 @@ Each summer, between 2017 - 2019, I went on a long walk over several days with m
 5. [Color Pallete](#Color-Pallete)
 6. [Typography](#Typography)
 7. [Photography](#Photography)
-8. [Typography](#Icons)
+8. [Icons](#Icons)
 9. [Designs](#Designs)
 10. [Clickable Prototype](#Clickable-Prototype)
 11. [Responsive Designs](#Responsive-Designs)
