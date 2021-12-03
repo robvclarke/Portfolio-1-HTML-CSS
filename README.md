@@ -213,7 +213,7 @@ I generated a lighthouse report for all pages with the desktop radio button sele
 
 I generated a lighthouse report for all pages with the mobile radio button selected and all were marked a progressive web app: 
 
-![Lighthouse mobile](/assets/images/lighthouse_testing_mobile.jpg)
+![Lighthouse Mobile](/assets/images/lighthouse_testing_mobile.jpg)
 
 ## Technologies
 
@@ -227,7 +227,7 @@ I generated a lighthouse report for all pages with the mobile radio button selec
 
 - [Adobe Illustrator](https://www.adobe.com) was used to create the icons for the site
 
-- [Adobe Photoshop](https://www.adobe.com)) was used to edit the images used for the site
+- [Adobe Photoshop](https://www.adobe.com) was used to edit the images used for the site
 
 - [Github](https://github.com) was used for version control, storing the code and deployment of the live site via Github pages
 
@@ -250,6 +250,8 @@ I deployed my project to Github pages by doing the following steps:
 5. This caused the link to the live website to appear on the page. 
 
 ## If I had more time
+
+I compressed the images as much as I could reduced nearly all to below 500 kbs on photoshop but I did notice a drop in quality in relation to this so look forward to learning more about best compression practices for web. 
 
 If I had more time I would have liked to have figured out a way that clicking on an image in my photo gallery would have brought you back to the page after it took over the tab. As a fix I used a target=_blank so that the image opens in a new tab but I still dont think it is an ideal user experience.
 
