@@ -205,13 +205,13 @@ You can see a screenshot of the results below:
 
 #### Lighthouse Desktop Reports 
 
-I generated a lighthouse report for all pages on desktop and all were marked a progressive web app: 
+I generated a lighthouse report for all pages with the desktop radio button selected and all were marked a progressive web app: 
 
 ![Lighthouse Desktop](/assets/images/lighthouse_testing_desktop.png)
 
 #### Lighthouse Mobile Reports 
 
-I generated a lighthouse report for all pages on mobile and all were marked a progressive web app: 
+I generated a lighthouse report for all pages with the mobile radio button selected and all were marked a progressive web app: 
 
 ![Lighthouse mobile](/assets/images/lighthouse_testing_mobile.png)
 
