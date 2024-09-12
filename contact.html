@@ -86,5 +86,26 @@
       </div>
       <!-- Bootstrap Bundle with Popper -->
       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+      <!-- JavaScript for form validation -->
+      <script>
+         document.getElementById('contact-form').addEventListener('submit', function(event) {
+            // Prevent the form from submitting by default
+            event.preventDefault();
+
+            // Get the email input value
+            const email = document.getElementById('email').value;
+            const emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$/;
+
+            // Validate the email using regex
+            if (!emailPattern.test(email)) {
+               alert("Please enter a valid email address.");
+            } else {
+               // Proceed with form submission (e.g., send email or process form data)
+               alert("Form submitted successfully!");
+               // Uncomment the line below to submit the form after validation
+               // event.target.submit();
+            }
+         });
+      </script>
    </body>
 </html>
